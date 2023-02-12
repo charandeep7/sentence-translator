@@ -1,0 +1,7 @@
+export { default as Card } from '../components/Card'
+export { default as LoadingScreen } from '../components/LoadingScreen'
+export { default as Past } from '../components/Past'
+export { default as Present } from '../components/Present'
+export { default as Future } from '../components/Future'
+export { default as HowItWorks } from '../components/HowItWorks'
+export { default as SentenceContainer } from '../components/SentenceContainer'
